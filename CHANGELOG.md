@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [1.0.1] - 2023-01-11
+### Update
+- Add build, flash in command line
+
+
 ## [1.0.0] - 2023-01-07
 The purpose of a change log is to keep a record of all the changes that have been made to a project.
 
